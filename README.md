@@ -4,4 +4,4 @@ By which ,easy to monitoring temperature level for fruits,foods and eggs.Because
 
 IDE     : Atmel Studio IDE V6.1 or later  
 Compiler:Gcc C Compiler  
-MCU     :AtMega128
+MCU     :AtMega32
